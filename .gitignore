@@ -1,0 +1,7 @@
+# ignore files and folders
+/build
+/dist
+/envIE
+PixelCrypt.spec
+tkinterApp_innoSetup.iss
+PixelCrypt-*
